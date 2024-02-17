@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Project Guttenberg (https://www.gutenberg.org/)
 
 ## Contact
-For any inquiries or feedback, please contact [Pakheria](https://github.com/Pakheria).
+For any inquiries or feedback, please contact [Faizan Haroon](https://github.com/Pakheria).
