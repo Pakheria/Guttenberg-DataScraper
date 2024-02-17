@@ -39,9 +39,6 @@ Run the script with the desired parameters:
 python scraper.py
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 Project Guttenberg (https://www.gutenberg.org/)
 
